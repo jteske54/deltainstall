@@ -6,7 +6,7 @@ curl https://raw.githubusercontent.com/jteske54/deltainstall/master/SystemVersio
 sudo rm /System/Library/CoreServices/SystemVersion.plist
 sudo cp ~/deltainstalltmp/SystemVersion.plist /System/Library/CoreServices/SystemVersion.plist
 open ~/Desktop/delta-5.0.2-osx-installer.app
-sleep 90
+sleep 80
 sudo rm /System/Library/CoreServices/SystemVersion.plist
 sudo cp ~/deltatmp/SystemVersion.plist /System/Library/CoreServices/SystemVersion.plist
 
