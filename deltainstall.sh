@@ -1,5 +1,6 @@
 #!/bin/bash
 
 mkdir ~/deltainstalltmp
-curl https://github.com/jteske54/deltainstall/raw/master/master.sh > ~/deltainstalltmp/master.sh
+curl https://raw.githubusercontent.com/jteske54/deltainstall/master/master.sh > ~/deltainstalltmp/master.sh
+sudo chmod 755 ~/deltainstalltmp/master.sh
 ~/deltainstalltmp/master.sh
