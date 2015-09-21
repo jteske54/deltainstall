@@ -18,11 +18,9 @@ It should now go through with the install
 
 *****DO NOT CLOSE OUT OF TERMINAL UNTIL IT SAYS [Process Completed]!!! It takes 80 seconds after you do step 6 to say this.
 
-*********************************************************
-*														*
-*						EL CAPITAN 						*
-*														*
-*********************************************************
+
+
+#EL CAPITAN
 
 1.	You need to first boot up into Recovery Mode. Do this by shutting off your computer, then pressing the power button and immediately pressing and holding the [Command] and [R] keys until the Apple logo shows on the screen.
 2.	Once you are booted up into recovery mode, click on utilities, then Terminal
