@@ -2,7 +2,7 @@
 Here's a workaround for installing Delta on OSX version 10.10 (it should already work on all other versions.)
 Please follow the directions very carefully before doing anything. Note: you must have an internet connection for this to work.
 
-**IF YOU ARE RUNNING OSX 10.11 EL CAPITAN AND ABOVE, START IN THE EL CAPITAN SECTION FIRST. IF YOU ARE RUNNING 10.10 YOSEMITE, COMPLETE STEPS 1-8 BELOW.
+***IF YOU ARE RUNNING OSX 10.11 EL CAPITAN AND ABOVE, START IN THE EL CAPITAN SECTION FIRST. IF YOU ARE RUNNING 10.10 YOSEMITE, COMPLETE STEPS 1-8 BELOW.***
  
 1.	Go into System Preferences, then Security and Privacy, and in the General tab, make sure that Allow apps downloaded from is set to anywhere. You have to click on the lock in the bottom left hand corner and enter your password if you need to change it.
 2.	Download the file deltainstall.command and save it to the desktop.
@@ -16,7 +16,7 @@ Please follow the directions very carefully before doing anything. Note: you mus
 
 It should now go through with the install
 
-*****DO NOT CLOSE OUT OF TERMINAL UNTIL IT SAYS [Process Completed]!!! It takes 80 seconds after you do step 6 to say this.
+***DO NOT CLOSE OUT OF TERMINAL UNTIL IT SAYS [Process Completed]!!! It takes 80 seconds after you do step 6 to say this.***
 
 
 
@@ -29,6 +29,7 @@ It should now go through with the install
 4.	Now, click on Apple, then restart, then log back in and complete the steps 1-8 above.
 
 ***NOTE***
+
 I HIGHLY recommend reversing the process above once the install is done by completing steps 1-2 again, then pasting the following line into terminal:
 		csrutil enable
 then restarting the computer, and you're done.
