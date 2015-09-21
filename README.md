@@ -1,4 +1,4 @@
-# JEOL Delta installation workaround for OS X 10.10 -- Yosemite
+# JEOL Delta installation workaround for OSX 10.10 -- Yosemite
 Here's a workaround for installing Delta on OSX version 10.10 (it should already work on all other versions.)
 Please follow the directions very carefully before doing anything.
  
