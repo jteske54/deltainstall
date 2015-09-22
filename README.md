@@ -26,7 +26,7 @@ It should now go through with the install
 2.	Once you are booted up into recovery mode, click on utilities, then Terminal
 3.	Copy and paste the following line into terminal
 		
-	csrutil disable
+>csrutil disable
 
 4.	Now, click on Apple, then restart, then log back in and complete the steps 1-8 above.
 
@@ -34,6 +34,6 @@ It should now go through with the install
 
 I HIGHLY recommend reversing the process above once the install is done by completing steps 1-2 again, then pasting the following line into terminal:
 
-		csrutil enable
+>csrutil enable
 
 then restarting the computer, and you're done.
