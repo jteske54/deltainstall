@@ -29,6 +29,7 @@ It should now go through with the install
 3.	Copy and paste the following line into terminal
 		
 >csrutil disable
+
 4.	Now, click on Apple, then restart, then log back in and complete the steps 1-8 above.
 
 ***NOTE***
