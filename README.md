@@ -8,7 +8,9 @@ Please follow the directions very carefully before doing anything. Note: you mus
 2.	Download the file deltainstall.command and save it to the desktop.
 3.	Open up terminal by going into your Applications folder, then the Utilities folder, then Terminal.
 4.	Copy and paste the next line into the terminal window and hit enter:
-		chmod 755 ~/Desktop/deltainstall.command
+	
+	>chmod 755 ~/Desktop/deltainstall.command
+
 5.	Make sure the delta installation file (delta-5.0.2-osx-installer.app) is on your desktop, otherwise it won't work.
 6.	Now go on your desktop and double click on the deltainstall.command
 7.	Enter your computer password when it asks you to in the terminal window that opens.
