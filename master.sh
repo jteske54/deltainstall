@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Make a folder to copy SystemVersion.plist into, clone "fixed" version into the deltatmp folder.
 mkdir ~/deltatmp
 sudo cp -n /System/Library/CoreServices/SystemVersion.plist ~/deltatmp/SystemVersion.plist
 curl https://raw.githubusercontent.com/jteske54/deltainstall/master/SystemVersion.plist > ~/deltainstalltmp/SystemVersion.plist
