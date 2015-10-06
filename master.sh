@@ -11,4 +11,5 @@ sleep 80
 sudo rm /System/Library/CoreServices/SystemVersion.plist
 sudo cp ~/deltatmp/SystemVersion.plist /System/Library/CoreServices/SystemVersion.plist
 
+#removes the temporary directory and all of it's contents
 rm -rf ~/deltainstalltmp
