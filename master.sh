@@ -13,3 +13,4 @@ sudo cp ~/deltatmp/SystemVersion.plist /System/Library/CoreServices/SystemVersio
 
 #removes the temporary directory and all of it's contents
 rm -rf ~/deltainstalltmp
+#end comment
